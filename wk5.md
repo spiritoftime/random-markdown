@@ -97,3 +97,13 @@ from my understanding, doing myCar = (Car) myCar; changes myCar's compile type f
 ### Query 2: Qn 10 of the quiz.
 
 I chose b, was wondering why that is wrong? thank you!
+```java
+class HelloWorld {
+    public static void main(String[] args) {
+
+        String a = "hello";
+        boolean equality = a.equals(a);
+System.out.println(equality); // true
+    }
+}
+```
