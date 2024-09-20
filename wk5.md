@@ -93,3 +93,7 @@ class HelloWorld {
 }
 ```
 from my understanding, doing myCar = (Car) myCar; changes myCar's compile type from Vehicle to Car. If that is the case, why does the program fail to compile because the honk() method is not defined in the Vehicle class?
+
+### Query 2: Qn 10 of the quiz.
+
+I chose b, was wondering why that is wrong? thank you!
