@@ -2,6 +2,7 @@ Lab Test Part 1:
 Q4 - can I check why it is not 0..1 for both LinkedList and reflexive at Node?
 
 
+![image](https://github.com/user-attachments/assets/56925a38-8722-4005-a9cb-e1b8fb5062fc)
 
 Lab Test part 2
 
