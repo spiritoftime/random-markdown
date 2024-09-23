@@ -48,7 +48,7 @@ public class CriticalPatient extends Patient {
 ```
 
 
-Q3: Is there any penalty if I use iterator to iterate/ if i use hashmap for uniqueSize()?
+Q3: Is there any penalty if i use hashmap for uniqueSize()/ if I use iterator to iterate/?
 ```java
 import java.util.HashMap;
 
